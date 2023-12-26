@@ -1,6 +1,6 @@
 - 👋 Hi, I’m nitya
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning c and c++
+- 🌱 I’m currently learning c++ and python
 - 📫 Reach me at
   nitya0336@gmail.com
 
